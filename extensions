@@ -7,7 +7,9 @@ code --install-extension brapifra.phpserver
 code --install-extension burkeholland.simple-react-snippets
 code --install-extension codingyu.laravel-goto-view
 code --install-extension damianbal.php-class-generator-composer-psr-4
+code --install-extension dcasella.monokai-plusplus
 code --install-extension donjayamanne.jquerysnippets
+code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
@@ -16,14 +18,18 @@ code --install-extension felixfbecker.php-intellisense
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-complete-tag
 code --install-extension formulahendry.auto-rename-tag
+code --install-extension GitHub.copilot
+code --install-extension Gruntfuggly.todo-tree
 code --install-extension hediet.debug-visualizer
 code --install-extension hollowtree.vue-snippets
 code --install-extension Hridoy.jquery-snippets
 code --install-extension kakumei.php-xdebug
 code --install-extension kiteco.kite
 code --install-extension liamhammett.inline-parameters
+code --install-extension lonefy.vscode-JS-CSS-HTML-formatter
 code --install-extension mcright.auto-save
 code --install-extension MehediDracula.php-namespace-resolver
+code --install-extension mgmcdermott.vscode-language-babel
 code --install-extension mhutchie.git-graph
 code --install-extension mikestead.dotenv
 code --install-extension mohd-akram.vscode-html-format
@@ -31,6 +37,7 @@ code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
 code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
 code --install-extension ms-vscode.vs-keybindings
 code --install-extension Nkzq.nojquery-snippets
 code --install-extension octref.vetur
